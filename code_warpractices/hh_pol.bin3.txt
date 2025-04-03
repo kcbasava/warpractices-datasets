@@ -1,0 +1,993 @@
+Aiwoo	0	0
+PalawanBatak	0	0
+Bwaidoga	0	0
+Agta	0	0
+Kuanua	0	0
+Kwaio	0	0
+KwaraaeSolomonIslands	0	0
+Lau	0	0
+Moken	0	0
+Mota	0	0
+Motu	0	0
+Nanggu	0	0
+DayakNgaju	0	0
+VaeakauTaumako	0	0
+Nahavaq	0	0
+TannaSouthwest	0	0
+Toambaita	0	0
+SubanonSiocon	0	0
+Yami	0	0
+IfugaoAmganad	1	0
+Singhi	1	0
+BontokGuinaang	1	0
+Bugotu	1	0
+Dobuan	1	0
+Gaddang	1	0
+HoavaNewGeorgia	1	0
+Iban	1	0
+KakidugenIlongot	1	0
+IsnegDibagatKabugaoIsneg	1	0
+KelabitBario	1	0
+LamboyaLaboya	1	0
+KalingaGuinaangLubuagan_D	1	0
+IfugaoBatad	1	0
+Waropen	1	0
+BerawanLongTerawan	1	0
+Anuta	0	0
+Binukid	0	0
+Chamorro	0	0
+Dehu	0	0
+Kapingamarangi	0	0
+Manam	0	0
+Mussau	0	0
+Lakalai	0	0
+Nukuoro	0	0
+Luangiua	0	0
+Saa	0	0
+VaghuaChoiseul	0	0
+WBukidnonManobo	0	0
+Wogeo	0	0
+CentralAmis	1	0
+CiuliAtayal	1	0
+Numfor	1	0
+ItnegBinongan	1	0
+Bunun	1	0
+Kedang	1	0
+Levei	1	0
+MarovoNewGeorgia	1	0
+Marquesan	1	0
+Paiwan	1	0
+Palauan	1	0
+Baree	1	0
+Puyuma	1	0
+KayanUmaJuman	1	0
+Roviana	1	0
+Siraya	1	0
+Yamdena	1	0
+AnejomAneityum	0	0
+TobaBatak	0	0
+Cebuano	1	0
+ChuukeseAKATrukese	0	0
+FutunaEast	0	0
+FutunaWest	0	0
+Kiribati	0	0
+ElatKeiBesar	0	0
+Kilivila	0	0
+Woleaian	0	0
+Mangareva	0	0
+Maori	1	0
+Mekeo	0	0
+Niue	0	0
+Nguna	0	0
+Penrhyn	0	0
+Ponapean	0	0
+RapanuiEasterIsland	0	0
+Rarotongan	0	0
+Rennellese	0	0
+Savu	0	0
+SyeErromangan	0	0
+TagbanwaAborlan_D	0	0
+Teop	0	0
+Tikopia	0	0
+Tokelau	0	0
+UveaEast	0	0
+Alune	1	0
+Kambera	1	0
+Nias	1	0
+Simbo	1	0
+RotiTermanu_D	0	0
+Tontemboan	1	0
+Tsou	1	0
+Bali	0	1
+FijianBau	0	1
+Manggarai	0	1
+Nengone	0	1
+MarshalleseE_D	0	1
+RejangRejang	0	1
+Rotuman	0	1
+Sika	0	1
+Tongan	0	1
+Samoan	1	1
+Tetum	1	1
+TaeSToraja	1	1
+Hawaiian	0	1
+MerinaMalagasy	0	1
+TahitianModern	0	1
+MelayuBrunei_D	1	1
+Javanese	1	1
+Atoni	1	1
+Bajo	0	0
+Ura	0	0
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
