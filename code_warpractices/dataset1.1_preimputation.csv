@@ -1,0 +1,67 @@
+society,pop_res1,pol_cent,commsize_scale,ext_hier,agr_ins,mil_org,sac_scale,ss_bin
+Andamans,3,1,0,0,1,0,1,0
+Atayal,4,2,2,1,3,0,1,0
+Dogon,5,2,2,1,5,0,1,0
+Inupiaq,2,1,0,0,1,0,1,0
+Khasi,5,3,1,1,3,0,1,0
+Khoqand Khanate,6,4.5,6.5,NA,6,1,1,0
+Lau Fijians,3,3,1,2,3,0,1,0
+Mae Enga,5,2,3,0,3,0,1,0
+Toba,4,2,3,1,4,0,1,0
+TrOttm4,7,5,7,4,6,1,1,0
+Aleut,3,1,2,0,1,0,2,0
+Amhara,6,4,7,3,5,1,2,0
+Canela/Timbira,2,1,2,0,3,1,2,0
+IdBrokE,2,2,1,0,3,0,2,0
+Ifagao,5,1,2,0,6,0,2,0
+JpKamak,6,5,7,4,6,1,2,0
+Mataco,3.5,2,1,0,1,0,2,0
+Mundurucu,3,2,1,0,3,1,2,0
+Ojibway/Northern Saulteaux,3.5,2,1,0,1,0,2,0
+Ona,2,2,1,0,1,0,2,0
+Samoans,4,3,4,2,4,0,2,0
+Tongans,4,3,6,2,4,1,2,0
+Trobrianders,3,3,2,1,3,0,2,0
+Tuareg,6,3,1,2,3,0,2,0
+UgBito,6,3,4,3,5,1,2,0
+Yuki,3,2,1,0,1,0,2,0
+Aranda,3,2,0,0,1,0,3,1
+Bororo,3,2,1,1,1,0,3,1
+Callinago,3,2,3,0,1,0,3,1
+CnQingE,8,5,2,4,6,1,3,1
+EcJivaE,3.5,1,0,0,3,0,3,1
+Ganda,6,5,6,3,5,1,3,1
+Igbo,5,3,4,1,4,1,3,1
+Ila,4,2,3,1,3,0,3,1
+Kapauku/Mee,4,2,1,1,3,0,3,1
+Klamath,3,2,0,0,1,0,3,1
+Navajo,4,2,3,0,2,0,3,1
+Somali,6,3,0,2,2,0,3,1
+Alamut,5.5,5,6,3,6,1,4,1
+Azande,6,3,2,2,3,1,4,1
+Blackfoot,3.5,2,3,0,1,0,4,1
+DzTahrt,6,4,NA,3,6,1,4,1
+GhAshnL,5,4,6,2,3,1,4,1
+Gheg,3,3,3,2,5,0,4,1
+Guarani,4,3,2,1,3,0,4,1
+ItOstrg,6,4,7,3,4,1,4,1
+Koryak,3,2,2,0,1,0,4,1
+Kurds,6,4,6,2,6,0,4,1
+Maasai,4,2,1,1,1,1,4,1
+Muscogee,3.5,4,4,2,3,0,4,1
+Nuer,5,2,NA,0,3,1,4,1
+Ovimbundu,6,4,3,2,3,0,4,1
+Pashtun,5,2,4,2,6,0,4,1
+Pawnee,3.5,3,3,1,3,1,4,1
+PgOrokE,4,2,1,0,3,0,4,1
+Saramaka,4,3,2,2,3,0,4,1
+Seminole,3.5,2,NA,1,4,0,4,1
+Senussi (Libyan Bedouin),5,4,NA,2,2,0,4,1
+Shluh,5,3,5,1,6,0,4,1
+SyCalUm,7,5,7,4,6,1,4,1
+Tlingit,4,2,3,0,1,0,4,1
+Toradja,4,2,2,1,3,0,4,1
+Tupinamba,4,2,3,NA,4,0,4,1
+Turkana,4.5,1,NA,0,1,0,4,1
+USIroqE,3.5,3,4,1,3,0,4,1
+Zulu,5,5,NA,3,3,1,4,1
